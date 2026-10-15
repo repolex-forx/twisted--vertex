@@ -1,0 +1,11 @@
+{
+  "org": "twisted",
+  "repo": "vertex",
+  "versions": [
+    {
+      "commit": "feb591aa1b9a3b2b8fdcf53e4962dad2a0bc38ca",
+      "tag": "",
+      "parsed_at": "2026-10-15T14:52:20.711586+00:00"
+    }
+  ]
+}
