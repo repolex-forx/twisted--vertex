@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/twisted/vertex/commit/feb591aa1b9a3b2b8fdcf53e4962dad2a0bc38ca",
       "git:hexsha": "feb591aa1b9a3b2b8fdcf53e4962dad2a0bc38ca",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/twisted/vertex/commit/7bdf12e96639a8266cd5f8a71b88e0066bde4861",
